@@ -1,4 +1,4 @@
-# Hi there, I'm Nolan Morain 👋
+# Salut, moi c'est Nolan Morain 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Nolan405?label=Follow&style=social)](https://github.com/Nolan405)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nolan%20Morain-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -66,17 +66,6 @@
 
 ---
 
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nolan405&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nolan's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan405&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
-</p>
-
----
-
 ### 📫 Me contacter
 
 - 📧 **Email :** [morainnolan@gmail.com](mailto:morainnolan@gmail.com)
-- 📍 **Localisation :** Olivet / Orléans (45), France
-- 🌐 **GitHub :** [github.com/Nolan405](https://github.com/Nolan405)
