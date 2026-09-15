@@ -49,20 +49,20 @@
 
 ### 📌 Projets & Expériences profesionnelles
 
-#### 🏢 Stage - Automatisation & Contrôle de gestion – Ministère des Armées (PFAF-S)
+#### 🏢 [Stage - BUT 2] Automatisation & Contrôle de gestion – Ministère des Armées (PFAF-S)
 *Avril 2026 – Juin 2026*
 - Centralisation et automatisation de processus de contrôle de gestion sous Microsoft Access (remplacement de flux manuels Excel).
 - Modélisation relationnelle de données et requêtes SQL/VBA complexes pour l'analyse de stocks.
 - Création d'interfaces ergonomiques pour la saisie et restitution d'états d'inventaires.
 
-#### 🦖 Application Web de Gestion Paléontologique
+#### 🦖 [Projet Universitaire - BUT 2] Application Web de Gestion Paléontologique
 *Sept. 2025 – Nov. 2025*
 - Développement collaboratif d'une application Full Stack en **Python / Flask**.
 - Module d'analyse algorithmique de séquences d'ADN en Python.
 - Gestion de planification complexe sans conflit (habilitations, maintenance, budget).
 - Modélisation de base de données via ORM, assurant intégrité et robustesse.
 
-#### 🌐 Plateforme Web Dynamique (PHP / MySQL)
+#### 🌐 [Projet Personnel & Autodidacte] Plateforme Web Dynamique (PHP / MySQL)
 *Sept. 2025 – Déc. 2025*
 - Réalisation de bout en bout (A à Z) : du maquettage au déploiement en production sur serveur web.
 - Back-end dynamique en **PHP**, base de données relationnelle **MySQL** optimisée.
