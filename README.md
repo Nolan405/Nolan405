@@ -1,7 +1,6 @@
 # Salut, moi c'est Nolan Morain 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Nolan405?label=Follow&style=social)](https://github.com/Nolan405)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nolan%20Morain-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Contact-morainnolan%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:morainnolan@gmail.com)
 
 **Étudiant en 3ᵉ année de BUT Informatique à l'IUT d'Orléans** et actuellement **Alternant Développeur Full Stack au Ministère des Armées (Camp militaire de Chanteau)**. Passionné par l'apprentissage et la pratique du code, je m'engage à contribuer activement aux projets de votre organisme.
