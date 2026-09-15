@@ -11,9 +11,8 @@
 
 - 🎓 **Formation :** BUT Informatique (2024 - 2027) à l'Université d'Orléans
 - 💼 **Poste actuel :** Alternant Développeur Full Stack
-- 🛠️ **Ce que j'aime faire :** Concevoir des architectures logicielles, développer des interfaces intuitives et manipuler/optimiser des données complexes.
+- 🛠️ **Ce que j'aime faire :** Développer des applications et des sites web de bout en bout (Full Stack), concevoir des bases de données relationnelles optimisées et créer des interfaces utilisateur fluides et ergonomiques.
 - 🤝 **Engagement :** Ancien Secrétaire du Bureau des Étudiants (2025-2026)
-- 🏓 **Loisirs :** Tennis de table en club (7 ans)
 
 ---
 
