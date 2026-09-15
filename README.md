@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nolan%20Morain-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Contact-morainnolan%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:morainnolan@gmail.com)
 
-**Étudiant en 3ᵉ année de BUT Informatique à l'IUT d'Orléans** et **Alternant Développeur Full Stack**. Passionné par le développement logiciel, la conception d'architectures web et l'optimisation de bases de données, j'aime concevoir des solutions robustes de bout en bout.
+**Étudiant en 3ᵉ année de BUT Informatique à l'IUT d'Orléans** et actuellement **Alternant Développeur Full Stack au Ministère des Armées (Camp militaire de Chanteau)**. Passionné par l'apprentissage et la pratique du code, je m'engage à contribuer activement aux projets de votre organisme.
 
 ---
 
@@ -43,9 +43,9 @@
 
 ---
 
-### 📌 Projets & Expériences phares
+### 📌 Projets & Expériences profesionnelles
 
-#### 🏢 Automatisation & Contrôle de gestion – Ministère des Armées (PFAF-S)
+#### 🏢 Stage - Automatisation & Contrôle de gestion – Ministère des Armées (PFAF-S)
 *Avril 2026 – Juin 2026*
 - Centralisation et automatisation de processus de contrôle de gestion sous Microsoft Access (remplacement de flux manuels Excel).
 - Modélisation relationnelle de données et requêtes SQL/VBA complexes pour l'analyse de stocks.
